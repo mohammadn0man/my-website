@@ -65,32 +65,28 @@ body {
     margin: 0 5%;
 }
 
-/* ===================
-    ALL: Orange Theme
-   =================== */
+/* ALL: Orange Theme */
 
 .header-container {
-    border-bottom: 20px solid #e44d26;
+    border-bottom: 20px solid #8f0407;
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #e44d26;
+    border-top: 20px solid #8f0407;
 }
 
 .header-container,
 .footer-container,
 .main aside {
-    background: #f16529;
+    background: #b81118;
 }
 
 .title {
     color: white;
 }
 
-/* ==============
-    MOBILE: Menu
-   ============== */
+/*    MOBILE: Menu */
 
 nav ul {
     margin: 0;
@@ -108,7 +104,7 @@ nav a {
     font-weight: bold;
 
     color: white;
-    background: #e44d26;
+    /*background: #e44d26;*/
 }
 
 nav a:hover,
